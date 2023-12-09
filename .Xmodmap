@@ -1,4 +1,0 @@
-!making CAPSLOCK into hybrid Esc and Ctrl modifier
-clear Lock
-add Control = Caps_Lock
-keysym Caps_Lock = Escape
