@@ -11,6 +11,7 @@
   MOD4+ space
 
 #brightness controls
+#Using acpilight for backlight controls
 "xbacklight -dec 10 "
   MOD4 + Left
 "xbacklight -inc 10 "
