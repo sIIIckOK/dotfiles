@@ -1,0 +1,30 @@
+2023/12/09-13:17:12.943 15561 Reusing MANIFEST /home/sid/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/12/09-13:17:12.944 15561 Recovering log #384
+2023/12/09-13:17:12.946 15561 Reusing old log /home/sid/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000384.log 
+2023/12/09-13:19:03.140 15562 Level-0 table #392: started
+2023/12/09-13:19:03.163 15562 Level-0 table #392: 1610476 bytes OK
+2023/12/09-13:19:03.168 15562 Delete type=0 #384
+2023/12/09-13:19:03.317 1556e Level-0 table #394: started
+2023/12/09-13:19:03.333 1556e Level-0 table #394: 2020595 bytes OK
+2023/12/09-13:19:03.339 1556e Delete type=0 #391
+2023/12/09-13:21:35.885 15562 Level-0 table #396: started
+2023/12/09-13:21:35.903 15562 Level-0 table #396: 2114283 bytes OK
+2023/12/09-13:21:35.910 15562 Delete type=0 #393
+2023/12/09-13:21:35.944 15562 Level-0 table #398: started
+2023/12/09-13:21:35.965 15562 Level-0 table #398: 3352310 bytes OK
+2023/12/09-13:21:35.971 15562 Delete type=0 #395
+2023/12/09-13:21:35.972 15562 Compacting 4@0 + 4@1 files
+2023/12/09-13:21:36.002 15562 Generated table #399@0: 13 keys, 2609588 bytes
+2023/12/09-13:21:36.027 15562 Generated table #400@0: 10 keys, 2662802 bytes
+2023/12/09-13:21:36.054 15562 Generated table #401@0: 2 keys, 2586418 bytes
+2023/12/09-13:21:36.072 15562 Generated table #402@0: 16 keys, 1522483 bytes
+2023/12/09-13:21:36.072 15562 Compacted 4@0 + 4@1 files => 9381291 bytes
+2023/12/09-13:21:36.077 15562 compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/12/09-13:21:36.077 15562 Delete type=2 #398
+2023/12/09-13:21:36.077 15562 Delete type=2 #396
+2023/12/09-13:21:36.077 15562 Delete type=2 #386
+2023/12/09-13:21:36.077 15562 Delete type=2 #394
+2023/12/09-13:21:36.078 15562 Delete type=2 #389
+2023/12/09-13:21:36.078 15562 Delete type=2 #388
+2023/12/09-13:21:36.078 15562 Delete type=2 #387
+2023/12/09-13:21:36.078 15562 Delete type=2 #392

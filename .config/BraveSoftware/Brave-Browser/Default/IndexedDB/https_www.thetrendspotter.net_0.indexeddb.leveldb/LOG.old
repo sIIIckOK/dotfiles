@@ -1,0 +1,6 @@
+2023/12/06-14:00:43.458 45e Creating DB /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.thetrendspotter.net_0.indexeddb.leveldb since it was missing.
+2023/12/06-14:00:43.467 45e Reusing MANIFEST /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.thetrendspotter.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/06-14:00:47.478 45f Level-0 table #5: started
+2023/12/06-14:00:47.480 45f Level-0 table #5: 2910 bytes OK
+2023/12/06-14:00:47.481 45f Delete type=0 #3
+2023/12/06-14:00:47.481 45f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

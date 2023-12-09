@@ -1,0 +1,17 @@
+2023/12/07-11:17:47.783 542 Reusing MANIFEST /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_komodo.jp_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/07-11:17:47.783 542 Recovering log #14
+2023/12/07-11:17:47.784 542 Reusing old log /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_komodo.jp_0.indexeddb.leveldb/000014.log 
+2023/12/07-11:17:47.810 550 Level-0 table #20: started
+2023/12/07-11:17:47.812 550 Level-0 table #20: 621 bytes OK
+2023/12/07-11:17:47.813 550 Delete type=0 #14
+2023/12/07-11:17:47.813 542 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/07-11:17:47.826 551 Level-0 table #22: started
+2023/12/07-11:17:47.827 551 Level-0 table #22: 642 bytes OK
+2023/12/07-11:17:47.828 551 Delete type=0 #19
+2023/12/07-11:17:47.828 551 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 254 : 1
+2023/12/07-11:17:47.828 551 Compacting 1@0 + 1@1 files
+2023/12/07-11:17:47.830 551 Generated table #23@0: 11 keys, 667 bytes
+2023/12/07-11:17:47.830 551 Compacted 1@0 + 1@1 files => 667 bytes
+2023/12/07-11:17:47.830 551 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/07-11:17:47.831 551 Delete type=2 #22
+2023/12/07-11:17:47.831 543 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 254 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

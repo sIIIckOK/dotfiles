@@ -1,0 +1,5 @@
+require('sid.remap')
+require('sid.packer')
+require('sid.options')
+require('sid.color')
+require('sid.netrw')

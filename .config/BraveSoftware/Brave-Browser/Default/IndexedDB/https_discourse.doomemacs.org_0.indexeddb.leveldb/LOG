@@ -1,0 +1,6 @@
+2023/11/15-02:04:31.116 7fcd Creating DB /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.doomemacs.org_0.indexeddb.leveldb since it was missing.
+2023/11/15-02:04:31.124 7fcd Reusing MANIFEST /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.doomemacs.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-02:05:05.288 7fce Level-0 table #5: started
+2023/11/15-02:05:05.291 7fce Level-0 table #5: 96406 bytes OK
+2023/11/15-02:05:05.292 7fce Delete type=0 #3
+2023/11/15-02:05:05.292 7fce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

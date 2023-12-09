@@ -1,0 +1,6 @@
+2023/11/23-01:38:24.027 3cf Creating DB /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sportskeeda.com_0.indexeddb.leveldb since it was missing.
+2023/11/23-01:38:24.029 3cf Reusing MANIFEST /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sportskeeda.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/23-01:38:24.033 3dc Level-0 table #5: started
+2023/11/23-01:38:24.034 3dc Level-0 table #5: 674 bytes OK
+2023/11/23-01:38:24.035 3dc Delete type=0 #3
+2023/11/23-01:38:24.035 3dc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

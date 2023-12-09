@@ -1,0 +1,30 @@
+2023/12/09-13:17:14.091 15561 Reusing MANIFEST /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/09-13:17:14.092 15561 Recovering log #326
+2023/12/09-13:17:14.103 15561 Reusing old log /home/sid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000326.log 
+2023/12/09-14:02:54.675 1556e Level-0 table #331: started
+2023/12/09-14:02:54.688 1556e Level-0 table #331: 1298492 bytes OK
+2023/12/09-14:02:54.699 1556e Delete type=0 #326
+2023/12/09-14:06:03.551 15562 Compacting 1@1 + 1@2 files
+2023/12/09-14:06:03.568 15562 Generated table #332@1: 2068 keys, 81304 bytes
+2023/12/09-14:06:03.568 15562 Compacted 1@1 + 1@2 files => 81304 bytes
+2023/12/09-14:06:03.573 15562 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/09-14:06:03.573 15562 Delete type=2 #331
+2023/12/09-14:06:03.573 15562 Delete type=2 #328
+2023/12/09-14:34:37.026 15562 Level-0 table #334: started
+2023/12/09-14:34:37.036 15562 Level-0 table #334: 1052017 bytes OK
+2023/12/09-14:34:37.037 15562 Delete type=0 #330
+2023/12/09-14:39:40.124 15562 Compacting 1@1 + 1@2 files
+2023/12/09-14:39:40.136 15562 Generated table #335@1: 2312 keys, 89041 bytes
+2023/12/09-14:39:40.136 15562 Compacted 1@1 + 1@2 files => 89041 bytes
+2023/12/09-14:39:40.137 15562 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/09-14:39:40.137 15562 Delete type=2 #332
+2023/12/09-14:39:40.138 15562 Delete type=2 #334
+2023/12/09-15:01:06.757 15562 Level-0 table #337: started
+2023/12/09-15:01:06.765 15562 Level-0 table #337: 1014251 bytes OK
+2023/12/09-15:01:06.767 15562 Delete type=0 #333
+2023/12/09-15:01:32.959 15561 Compacting 1@1 + 1@2 files
+2023/12/09-15:01:32.966 15561 Generated table #338@1: 2508 keys, 90627 bytes
+2023/12/09-15:01:32.966 15561 Compacted 1@1 + 1@2 files => 90627 bytes
+2023/12/09-15:01:32.967 15561 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/09-15:01:32.967 15561 Delete type=2 #337
+2023/12/09-15:01:32.967 15561 Delete type=2 #335

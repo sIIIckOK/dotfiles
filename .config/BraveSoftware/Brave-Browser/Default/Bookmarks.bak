@@ -1,0 +1,58 @@
+{
+   "checksum": "401f2261140582a08c459802614937b6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13344688432465171",
+            "date_last_used": "13345887766344361",
+            "guid": "7e098a83-bd2e-4217-bf29-5b1d4dea4f7a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "73 Basic Japanese Phrases – StoryLearning",
+            "type": "url",
+            "url": "https://storylearning.com/learn/japanese/japanese-tips/basic-japanese-phrases"
+         }, {
+            "date_added": "13344728779673292",
+            "date_last_used": "0",
+            "guid": "39e7a198-a748-4773-ab33-d41e46039289",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MY WEBSITE",
+            "type": "url",
+            "url": "file:///home/sid/code/javascript/index.html"
+         } ],
+         "date_added": "13344681150280978",
+         "date_last_used": "0",
+         "date_modified": "13344728779673292",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344681150280981",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344681150280983",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
